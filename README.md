@@ -13,9 +13,9 @@ Created in Jupyter Notebooks from starter code provided by the BIOS4150/BIOL6150
 We took an individual from the 1000 Genomes Project and analyzed their genome through a fastq file.   
 Code of note: fastqc fastp  
 
-├── SRR393028_1.Trimmed_fastqc     # trimmed fastq file (first round trimming)
-├── SRR393028_2.Trimmed_fastqc     # trimmed fastq file (second round trimming)
-└── project1-DataAccessQC          # jupyter notebook file  
+├── SRR393028_1.Trimmed_fastqc     # trimmed fastq file (first round trimming)   
+├── SRR393028_2.Trimmed_fastqc     # trimmed fastq file (second round trimming)   
+└── project1-DataAccessQC          # jupyter notebook file   
 
 #####################################################################################  
 Project 2: Read Mapping       
