@@ -2,7 +2,7 @@
 combined files for projects from BIOL 4150/6150
 
 ## Structure
-- `.r`     - R files     
+- `.R`     - R files     
 
 #####################################################################################  
 Project 4    
