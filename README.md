@@ -4,7 +4,8 @@ combined files for projects from BIOL 4150/6150
 ## Structure
 - `.R`         - R files
 - `.ipynb`     - Jupyter Notebook files  
-- `.html`      - genome info files from 1000 Genomes Project    
+- `.html`      - genome info files from 1000 Genomes Project
+- `.vcf`       - variant call format file       
 
 #####################################################################################  
 Project 1: Data Access and Quality Control Lab
@@ -25,7 +26,17 @@ We further analyzed our fastqc file from Project 1 by comparing it to a referenc
 Code of note: bwa index minimap2 samtools grep
 
 └── project2-ReadMapping          # jupyter notebook file   
-  
+
+#####################################################################################  
+Project 3: Variant Calling
+
+Created in Jupyter Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs
+We analyzed the SAM file created in Project 2 by generating a pileup format and calling variants.
+Code of note: SAMstats samtools awk varscan grep bcftools
+
+├── VSfiltered_SRR393028             # vsf file   
+└── project13-VariantCalling         # jupyter notebook file   
+
 #####################################################################################  
 Project 4    
 
