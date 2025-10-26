@@ -58,4 +58,11 @@ Project 6
 
 Created in R Studio Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs
 
-└── project5-VariantConsequences          # Jupyter Notebook file    
+└── project6-VariantConsequences          # Jupyter Notebook file   
+
+#####################################################################################  
+Project 7    
+
+Created in R Studio Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs
+
+└── project7-PolygenicRiskScores          # Jupyter Notebook file    
