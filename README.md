@@ -56,20 +56,34 @@ We analyzed cohort data for type 2 diabetes and A1C levels.
 #####################################################################################  
 Project 6    
 
-Created in R Studio Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs
+Created in Jupyter Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs   
 
 └── project6-VariantConsequences          # Jupyter Notebook file   
 
 #####################################################################################  
 Project 7    
 
-Created in R Studio Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs
+Created in Jupyter Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs   
 
 └── project7-PolygenicRiskScores          # Jupyter Notebook file    
 
 #####################################################################################  
 Project 8    
 
-Created in R Studio Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs
+Created in Jupyter Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs   
 
 └── project8-Pharmacogenomics          # Jupyter Notebook file  
+
+#####################################################################################  
+Project 9    
+
+Created in Jupyter Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs   
+
+└── project9-PCA          # Jupyter Notebook file  
+
+#####################################################################################  
+Project 10    
+
+Created in Jupyter Notebooks from starter code provided by the BIOS4150/BIOL6150 Professor and TAs  
+
+└── project10-AncestryInference          # Jupyter Notebook file  
