@@ -1,6 +1,8 @@
 # gt-biol6150
 combined files for projects from BIOL 4150/6150
 
+!!!If the files do not load, they can still be uploaded to Google Colab!!!    
+
 ## Structure
 - `.R`         - R files
 - `.ipynb`     - Jupyter Notebook files  
